@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - To print all possible collections of two digits without repeating numbers
+ * main - To print all possible collections of 
+ * two digits without repeating numbers
  * 
  * Return: Always(Success)
  */
