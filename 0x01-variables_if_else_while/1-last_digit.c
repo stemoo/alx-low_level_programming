@@ -2,7 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
+/* Main is to 
+ * check the size of
+ * the last digit of a
+ * randomly assigned number
+ */
 int main(void)
 {
 	int n, lastn;
