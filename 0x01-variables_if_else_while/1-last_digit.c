@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
  * Main is to 
  * check the size of
  * the last digit of a
