@@ -4,7 +4,7 @@
 
 
 /**
- * main
+ * main - To check the lastdidgit of a randomly assigned number
  *
  * Return: Always (Success)
  */
