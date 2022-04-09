@@ -9,9 +9,9 @@
 
 int main(void)
 {
-	int numb;
+	char numb;
 
-	for (numb = 0; numb <=9; numb++)
+	for (numb = '0'; numb <= '9'; numb++)
 		printf(numb);
 
 	printf('\n');
