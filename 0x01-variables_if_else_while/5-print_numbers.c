@@ -3,10 +3,9 @@
 /**
  * main - Print numbers from zero to ten
  *
- * Returns: Always (Success)
+ * Return: Always (Success)
  *
  */
-
 int main(void)
 {
 	char numb;
