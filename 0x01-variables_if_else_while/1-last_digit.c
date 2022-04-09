@@ -2,11 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 
+
 /**
- * Main is to 
- * check the size of
- * the last digit of a
- * randomly assigned number
+ * main
+
+ *
+ * Return: Always (Success)
  */
 
 int main(void)
