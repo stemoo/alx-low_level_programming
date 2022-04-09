@@ -2,11 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 
-/* Main is to 
+/*
+ * Main is to 
  * check the size of
  * the last digit of a
  * randomly assigned number
  */
+
 int main(void)
 {
 	int n, lastn;
